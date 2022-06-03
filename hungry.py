@@ -1,4 +1,4 @@
-hungry = input("Are you hungry?\n").lower()
+hungry = input("Are you Hungry?\n").lower()
 if hungry == 'yes':
     print('Eat samosa')
 else:
